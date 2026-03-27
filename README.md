@@ -1,4 +1,4 @@
-# AyED_2026-LabpaPC2
+# AyED_2026-PC2
 Repositorio para la materia Algoritmos y Estructura de Datos - 2026
 **Curso:** 4to B
 **Máquina asignada:** LabpaPC2
